@@ -4,6 +4,7 @@ import javax.swing.*;
 import javax.swing.JPanel;
 import java.util.Random;
 
+@SuppressWarnings("serial")
 public class GamePanel extends JPanel implements ActionListener {
 
 
